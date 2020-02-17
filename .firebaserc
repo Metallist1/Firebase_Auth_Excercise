@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "authenticationtest-8b173": {
+      "hosting": {
+        "FirebaseExcercise": [
+          "authenticationtest-8b173"
+        ]
+      }
+    }
+  }
+}
