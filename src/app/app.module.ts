@@ -10,14 +10,14 @@ import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
 const config = {
-  apiKey: "AIzaSyBP-h6dFicsI23at4L4E4vm70bX-TJ3Tfo",
-  authDomain: "authenticationtest-8b173.firebaseapp.com",
-  databaseURL: "https://authenticationtest-8b173.firebaseio.com",
-  projectId: "authenticationtest-8b173",
-  storageBucket: "authenticationtest-8b173.appspot.com",
-  messagingSenderId: "557302842285",
-  appId: "1:557302842285:web:d118d0670eb67744d51724",
-  measurementId: "G-Z9D1JVP4Y6"
+  apiKey: "-",
+  authDomain: "-",
+  databaseURL: "-",
+  projectId: "-",
+  storageBucket: "-",
+  messagingSenderId: "-",
+  appId: "-",
+  measurementId: "-"
   }
 
 import { AuthGuard } from "./Shared/admin-services/_firebase-services/_guard/firebase.authentication.guard";
